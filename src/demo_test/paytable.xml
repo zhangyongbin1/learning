@@ -1,0 +1,16 @@
+<ExecutionModel name="HotRollBonus1">
+	<Data type="HotRollBonus1.FreeSpinProcessor" name="HotRollBonus1.FreeSpinProcessor" />
+	<Data type="HotRollBonus1.Populator" name="HotRollBonus1.Populator" />
+	<Data type="TriggerProcessor" name="TriggerProcessor" />
+	<Data type="HotRollBonus1.PatternProcessor" name="HotRollBonus1.PatternProcessor" />
+	<Data type="L0C0R0.PatternCellTriggerProcessor" name="L0C0R0.PatternCellTriggerProcessor" />
+	<Data type="L0C1R0.PatternCellTriggerProcessor" name="L0C1R0.PatternCellTriggerProcessor" />
+	<Data type="SevenOnceRoll.TriggerProcessor" name="SevenOnceRoll.TriggerProcessor" />
+	<Data type="SevenOut.TriggerProcessor" name="SevenOut.TriggerProcessor" />
+	<Data type="AccumulateTriggerProcessor" name="AccumulateTriggerProcessor" />
+	<Data type="HotRollBonus1.PrizeProcessor" name="HotRollBonus1.PrizeProcessor" />
+	<Data type="HotRollBonus1.ClientPrizeProcessor" name="HotRollBonus1.PrizeProcessor" />
+	<Data type="Game.AwardCapProcessor" name="AwardCapProcessor" />
+	<Data type="HotRollBonus1.StageProcessor" name="HotRollBonus1.StageProcessor" />
+	<Data type="HotRollBonus1.AdvancedTransactionProcessor" name="HotRollBonus1.AdvancedTransactionProcessor" />
+</ExecutionModel>

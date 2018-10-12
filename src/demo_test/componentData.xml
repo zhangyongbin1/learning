@@ -1,0 +1,40 @@
+<ComponentData name="HotRollBonus1.Populator">
+	<Data name="Dice" type="StripInfo" />
+	<Data name="Dice" type="PopulationStripMapping" />
+	<Data name="Dice" type="PopulationInfo" />
+</ComponentData>
+<ComponentData name="TriggerProcessor">
+	<Data name="DiceResolveTriggerInfo" type="TriggerInfo" />
+</ComponentData>
+<ComponentData name="HotRollBonus1.PatternProcessor">
+	<Data name="DicePatternInfo" type="PatternInfo" />
+	<Data name="Dice" type="PopulationInfo" />
+</ComponentData>
+<ComponentData name="L0C0R0.PatternCellTriggerProcessor">
+	<Data name="DicePatternTriggerInfo1" type="PatternTriggerInfo" />
+</ComponentData>
+<ComponentData name="L0C1R0.PatternCellTriggerProcessor">
+	<Data name="DicePatternTriggerInfo2" type="PatternTriggerInfo" />
+</ComponentData>
+<ComponentData name="SevenOnceRoll.TriggerProcessor">
+	<Data name="SevenOnceTriggerInfo" type="TriggerInfo" />
+</ComponentData>
+<ComponentData name="SevenOut.TriggerProcessor">
+	<Data name="SevenOutTriggerInfo" type="TriggerInfo" />
+</ComponentData>
+<ComponentData name="AccumulateTriggerProcessor">
+	<Data name="AccumulateTriggerInfo" type="TriggerInfo" />
+</ComponentData>
+<ComponentData name="HotRollBonus1.FreeSpinProcessor">
+	<Data name="HotRollBonus1.FreeSpinInfo" type="FreeSpinInfo" />
+</ComponentData>
+<ComponentData name="HotRollBonus1.PrizeProcessor">
+	<Data name="PrizeInfoDice" type="PrizeInfo" />
+	<Data name="RollResultTriggerInfo" type="TriggerInfo" />
+</ComponentData>
+<ComponentData name="HotRollBonus1.StageProcessor">
+	<Data name="StageTriggerInfo" type="StageTriggerInfo" />
+</ComponentData>
+<ComponentData name="HotRollBonus1.AdvancedTransactionProcessor">
+	<Data name="WagerStrategyInfo" type="WagerStrategyInfo" />
+</ComponentData>
