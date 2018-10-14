@@ -12,7 +12,7 @@ public class KMP {
 		int pos = 2;
 		int cn = 0;
 		while(pos < next.length){
-			if(next[pos - 1] == next[cn]){
+			if(ms[pos - 1] == ms[cn]){
 				next[pos++] = ++cn;
 			}else if(cn >= 0){
 				cn = next[cn];
